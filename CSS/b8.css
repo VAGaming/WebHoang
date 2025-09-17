@@ -1,0 +1,32 @@
+.container {
+  background-color: ghostwhite;
+  text-align: center;
+  padding-top: 128px;
+  padding-bottom: 128px;
+}
+h2 {
+  font-size: 64px;
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+a {
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Be Vietnam Pro", sans-serif;
+  display: inline-block;
+  color: black;
+  margin: 24px;
+}
+a:hover {
+  color: blue;
+}
+img {
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 3px solid black;
+  align-self:center
+}
+a:hover img{
+  border: 3px solid blue;
+}

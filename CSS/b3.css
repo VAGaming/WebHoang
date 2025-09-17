@@ -1,0 +1,14 @@
+button {
+  border: none;
+  font-weight: 750;
+  font-size: 32px;
+  padding: 32px 32px;
+  text-align: center;
+  margin: 1px;
+  border-radius: 50%;
+}
+
+.h:hover {
+  background-color: cornflowerblue;
+  color: white;
+}
